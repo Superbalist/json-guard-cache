@@ -1,5 +1,5 @@
 {
-    "name": "yuloh/json-guard-cached",
+    "name": "superbalist/json-guard-cached",
     "type": "library",
     "description": "A json-guard decorator to enable schema caching",
     "keywords": [
