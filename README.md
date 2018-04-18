@@ -9,7 +9,7 @@ This decorator is experimental until it proves to be worth using.
 Via Composer
 
 ``` bash
-$ composer require yuloh/json-guard-cached
+$ composer require superbalist/json-guard-cached
 ```
 
 ## Usage
